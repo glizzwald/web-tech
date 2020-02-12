@@ -1,0 +1,11 @@
+#form input [type=text], input[type=tel], input [type=email] {
+    float: right;
+
+}
+
+form input[type="submit"] {
+    margin-left:12%;
+    color: red;
+    border-radius: 10px;
+    background:green;
+}
