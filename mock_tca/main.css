@@ -1,0 +1,23 @@
+body {background-color: gray;} 
+
+header {
+    text-align:right
+}
+
+#about_me{background-color: #D3D3D3;
+height: 50px;
+margin:5px;
+}
+
+#background{background-color: #d3d3d3;
+    height:50px;
+    margin:5px;
+}
+#table{
+    border:5px solid black;
+    border-collapse:collapse;
+}
+
+h1, h2, h3, h4{
+    text-align:center;
+} 
